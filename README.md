@@ -1,4 +1,4 @@
-# Gym Membership System
+# Gym Membership Tracker
 Submitted by Himujjal Seal.
 
 # Introduction
